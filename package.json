@@ -1,0 +1,14 @@
+{
+  "name": "numberstowords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests --watchAll --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
